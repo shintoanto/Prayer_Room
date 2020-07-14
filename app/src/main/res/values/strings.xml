@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prayer Room</string>
+    <string name="oops">!Oops</string>
+    <string name="nointernetconnection">nointernetconnection</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection!</string>
+</resources>
